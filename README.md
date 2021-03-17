@@ -9,5 +9,7 @@ He is a computer engineer and holds a MBA from IESE / Kellogg School of Business
 - Sharing updates on <a href="https://www.linkedin.com/in/luisvelascouk/">LinkedIn</a> 💼
 - Posting random stuff on  <a href="https://twitter.com/luisvelasco">Twitter</a> 🐦
 
+## Picture 🖼️: 
+
 ![Luis Velasco](https://github.com/velascoluis/bio/blob/main/LuisVelasco.jpg)
 
