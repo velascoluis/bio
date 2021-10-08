@@ -12,4 +12,5 @@ He is a computer engineer and holds a MBA from IESE / Kellogg School of Business
 ## Picture 🖼️: 
 
 ![Luis Velasco](https://github.com/velascoluis/bio/blob/main/LuisVelasco.jpg)
+![Luis Velasco](https://github.com/velascoluis/bio/blob/main/Luis.png)
 
