@@ -1,6 +1,6 @@
 # Luis Velasco
-Luis is a Data Analytics Specialist at Gooogle, currently enjoying consulting/advisory work with a particular emphasis on (1) Distributed data processing systems (2) Machine Learning and (3) data assets governance.
-Luis has 15+ years of experience always linked to the data ecosystem, in companies such as Oracle or Hewlett Packard Enterprise.
+Luis is a Data Analytics Specialist at Gooogle, currently enjoying consulting/advisory work with a particular emphasis on (1) Distributed data processing systems and (2) Machine Learning.
+Luis has 15+ years of "full data" experience in companies such as Oracle or Hewlett Packard Enterprise.
 He is a computer engineer and holds a MBA from IESE / Kellogg School of Business.
 
 ## Find me around the web 🌎: 
@@ -13,4 +13,5 @@ He is a computer engineer and holds a MBA from IESE / Kellogg School of Business
 
 ![Luis Velasco](https://github.com/velascoluis/bio/blob/main/LuisVelasco.jpg)
 ![Luis Velasco](https://github.com/velascoluis/bio/blob/main/Luis.png)
+![Luis Velasco](https://services.google.com/fh/files/misc/velascoluis-event.jpg)
 
